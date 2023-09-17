@@ -1,9 +1,9 @@
 [submodule "lexzhe_hw1"]
 	path = lexzhe_hw1
-	url = .\\lexzhe_hw1
+	url = https://github.com/lexzhe/BDML_hw1.git
 [submodule "lexzhe_hw2"]
 	path = lexzhe_hw2
-	url = .\\lexzhe_hw2
+	url = https://github.com/lexzhe/BDML_hw2.git
 [submodule "lexzhe_hw3"]
 	path = lexzhe_hw3
-	url = .\\lexzhe_hw3
+	url = https://github.com/lexzhe/BDML_hw3.git
